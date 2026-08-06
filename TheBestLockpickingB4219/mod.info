@@ -1,0 +1,10 @@
+name=The Best Lockpicking [B42.20]
+poster=poster.jpg
+author=Digokz
+id=TheBestLockpickingB4219
+icon=icon.png
+description=A complete lockpicking overhaul.
+url=https://steamcommunity.com/sharedfiles/filedetails/?id=3745815281
+modversion=3.7
+pzversion=42.20
+incompatible=betterLockpicking;zReBetterLockpicking;zReBetterLockpickingb42mp;NFsBetterLockpicking;NFsBetterLockpickingMPFIXAIO

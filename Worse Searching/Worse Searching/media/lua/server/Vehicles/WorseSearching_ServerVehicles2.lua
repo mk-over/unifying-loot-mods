@@ -1,0 +1,11 @@
+-- require "Vehicles/Vehicles"
+
+-- function Vehicles.Update.Searched(vehicle, part)
+	-- local mData = part:getModData()	
+	-- mData.searched = true
+	-- vehicle:transmitPartModData(part)
+-- end
+-- function Vehicles.Update.IsSearched(vehicle, part)
+	-- local mData = part:getModData()	
+	-- return mData
+-- end

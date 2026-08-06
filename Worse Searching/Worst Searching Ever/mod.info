@@ -1,0 +1,6 @@
+name=Worse Searching - Worst Searching Ever
+poster=poster.png
+id=Worst Searching Ever
+require=Worse Searching
+description=A more hardcore version for multiplayer where the searched state of containers is not persistent.
+url=

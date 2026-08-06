@@ -1,0 +1,6 @@
+name=Worse Searching - Even Worse Searching
+poster=poster.png
+id=Even Worse Searching
+require=Worse Searching
+description=A version for multiplayer where the searched state of containers is only persistent in safehouses furniture containers.
+url=

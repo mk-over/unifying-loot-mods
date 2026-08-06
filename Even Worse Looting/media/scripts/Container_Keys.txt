@@ -1,0 +1,318 @@
+module Base
+
+{
+    
+    item KeyContainer
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Key,
+		Icon	=	KeyPadlock1,
+		MetalValue = 5,
+		WorldStaticModel = KeyPadlock,
+	    DisplayCategory = Security,
+	}
+  
+    item Key_1
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Vending Machine Key,
+		Icon	=	Key_Vending,
+		MetalValue = 5,
+		keyId = 1,
+		WorldStaticModel = KeyPadlock,
+	    DisplayCategory = Security,
+	}
+
+
+ item Key_151
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Western Guns Key,
+		Icon	=	Key_Gunstore_1,
+		MetalValue = 5,
+		keyId = 151,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_157
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Surplus Store Gun Key,
+		Icon	=	Key_Gunstore_2,
+		MetalValue = 5,
+		keyId = 157,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_158
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Farming & Rural Supply Gun Key,
+		Icon	=	Key_Gunstore_3,
+		MetalValue = 5,
+		keyId = 158,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_162
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Knob Creek Shooting Range Key,
+		Icon	=	Key_Gunstore_4,
+		MetalValue = 5,
+		keyId = 162,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_164
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	West Pont Gun Store Key,
+		Icon	=	Key_Gunstore_5,
+		MetalValue = 5,
+		keyId = 164,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+
+
+ item Key_151
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Western Guns Key,
+		Icon	=	Key_Gunstore_1,
+		MetalValue = 5,
+		keyId = 151,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_157
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Surplus Store Gun Key,
+		Icon	=	Key_Gunstore_2,
+		MetalValue = 5,
+		keyId = 157,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_158
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Farming & Rural Supply Gun Key,
+		Icon	=	Key_Gunstore_3,
+		MetalValue = 5,
+		keyId = 158,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_162
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Knob Creek Shooting Range Key,
+		Icon	=	Key_Gunstore_4,
+		MetalValue = 5,
+		keyId = 162,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_164
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	West Point Gun Store Key,
+		Icon	=	Key_Gunstore_5,
+		MetalValue = 5,
+		keyId = 164,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+
+
+
+ item Key_1151
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Western Guns Door Key,
+		Icon	=	Key1,
+		MetalValue = 5,
+		keyId = 1151,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_1157
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Surplus Store Key,
+		Icon	=	Key2,
+		MetalValue = 5,
+		keyId = 1157,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_1158
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Farming & Rural Supply Key,
+		Icon	=	Key3,
+		MetalValue = 5,
+		keyId = 1158,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_1162
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Knob Creek Shooting Range Door Key,
+		Icon	=	Key4,
+		MetalValue = 5,
+		keyId = 1162,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_1164
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	West Point Gun Store Door Key,
+		Icon	=	Key5,
+		MetalValue = 5,
+		keyId = 1164,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+
+
+
+ item Key_250
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Riverside PD Armory Key,
+		Icon	=	Key_Police_1,
+		MetalValue = 5,
+		keyId = 250,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_264
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	West Point PD Armory Key,
+		Icon	=	Key_Police_2,
+		MetalValue = 5,
+		keyId = 264,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_265
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Prison Armory Key,
+		Icon	=	Key_Police_3,
+		MetalValue = 5,
+		keyId = 265,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_266
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Rosewood PD Armory Key,
+		Icon	=	Key_Police_4,
+		MetalValue = 5,
+		keyId = 266,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_268
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Muldraugh PD Armory Key,
+		Icon	=	Key_Police_5,
+		MetalValue = 5,
+		keyId = 268,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+
+
+
+ item Key_1250
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Riverside PD Key,
+		Icon	=	Key1,
+		MetalValue = 5,
+		keyId = 1250,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_1264
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	West Point PD Key,
+		Icon	=	Key2,
+		MetalValue = 5,
+		keyId = 1264,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_1265
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Prison Key,
+		Icon	=	Key3,
+		MetalValue = 5,
+		keyId = 1265,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_1266
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Rosewood PD Key,
+		Icon	=	Key4,
+		MetalValue = 5,
+		keyId = 1266,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+ item Key_1268
+	{
+		Weight	=	0,
+		Type	=	Key,
+		DisplayName	=	Muldraugh PD Key,
+		Icon	=	Key5,
+		MetalValue = 5,
+		keyId = 1268,
+		WorldStaticModel = Key,
+	    DisplayCategory = Security,
+	}
+
+
+
+}

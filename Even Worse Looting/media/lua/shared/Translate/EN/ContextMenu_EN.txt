@@ -1,0 +1,6 @@
+ContextMenu_EN = {
+	ContextMenu_Pry_Open_Locked_Container = "Pry Open Locked Container",
+	ContextMenu_Unlock_Container = "Unlock Container",
+	ContextMenu_Enter_Combination = "Enter Combination",
+	ContextMenu_Cut_Padlock = "Cut Padlock",
+} 

@@ -1,0 +1,14 @@
+local render_old = ISToolTipInv.render
+
+function ISToolTipInv:render_Key()
+	if self and self.item and instanceof(self.item, "Key") and self.item:getModData().keyId then
+		--print("Key Re-keyed")
+		self.item:setKeyId(self.item:getModData().keyId)	
+		self.item:setName(self.item:getScriptItem():getDisplayName())
+	end
+
+	render_old(self)
+	return self
+end
+
+ISToolTipInv.render = ISToolTipInv.render_Key

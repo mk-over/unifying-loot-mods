@@ -1,0 +1,21 @@
+module Base
+{
+
+
+	sound PutItemInBag2
+	{
+		/*category = Item,*/
+		category = World,
+		master = Ambient,
+		loop = true,
+		is3D = false,
+		clip
+		{
+			event = PZ_PutInBag,
+		}
+	}
+
+
+	
+}
+

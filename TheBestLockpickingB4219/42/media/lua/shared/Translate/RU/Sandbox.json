@@ -1,0 +1,10 @@
+{
+    "Sandbox_Lockpicking": "The Best Lockpicking",
+    "Sandbox_TheBestLockpicking_LockpickingMode": "Режим взлома замков",
+    "Sandbox_TheBestLockpicking_LockpickingMode_tooltip": "Выберите систему взлома замков: Старая (простая) или Новая (с штифтами).",
+    "Sandbox_TheBestLockpicking_LockpickingMode_Values_option1": "Старая",
+    "Sandbox_TheBestLockpicking_LockpickingMode_Values_option2": "Новая (могут быть баги)",
+	
+	"Sandbox_MultiplierConfig_Lockpicking": "Множитель опыта взлома замков",
+	"Sandbox_MultiplierConfig_Lockpicking_tooltip": "Скорость прокачки навыка взлома замков. (Работает, только если 'Использовать глобальный множитель' выключен)",
+}

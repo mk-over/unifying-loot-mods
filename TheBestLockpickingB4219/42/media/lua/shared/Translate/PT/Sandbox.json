@@ -1,0 +1,10 @@
+{
+    "Sandbox_Lockpicking": "O melhor arrombamento",
+    "Sandbox_TheBestLockpicking_LockpickingMode": "Modo de arrombamento",
+    "Sandbox_TheBestLockpicking_LockpickingMode_tooltip": "Escolha o sistema de arrombamento: Antigo (simples) ou Novo (com pinos).",
+    "Sandbox_TheBestLockpicking_LockpickingMode_Values_option1": "Antigo",
+    "Sandbox_TheBestLockpicking_LockpickingMode_Values_option2": "Novo (pode ter bugs)",
+	
+	"Sandbox_MultiplierConfig_Lockpicking": "Multiplicador de Arrombamento",
+	"Sandbox_MultiplierConfig_Lockpicking_tooltip": "Velocidade com que a habilidade de Arrombamento sobe de nível. (Funciona apenas se 'Usar Multiplicador Global' estiver desativado)",
+}

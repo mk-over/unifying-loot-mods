@@ -1,0 +1,10 @@
+{
+    "Sandbox_Lockpicking": "Le meilleur crochetage",
+    "Sandbox_TheBestLockpicking_LockpickingMode": "Mode de crochetage",
+    "Sandbox_TheBestLockpicking_LockpickingMode_tooltip": "Choisissez le système de crochetage : Ancien (simple) ou Nouveau (avec goupilles).",
+    "Sandbox_TheBestLockpicking_LockpickingMode_Values_option1": "Ancien",
+    "Sandbox_TheBestLockpicking_LockpickingMode_Values_option2": "Nouveau (peut contenir des bugs)",
+	
+	"Sandbox_MultiplierConfig_Lockpicking": "Multiplicateur de Crochetage",
+	"Sandbox_MultiplierConfig_Lockpicking_tooltip": "Vitesse à laquelle la compétence de Crochetage progresse. (Fonctionne uniquement si 'Utiliser le Multiplicateur Global' est désactivé)",
+}

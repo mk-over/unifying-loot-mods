@@ -1,0 +1,18 @@
+VERSION = 1,
+
+perk Lockpicking
+{
+    parent = Survivalist,
+    translation = Lockpicking,
+    passive = false,
+    xp1 = 75,
+    xp2 = 200,
+    xp3 = 400,
+    xp4 = 600,
+    xp5 = 900,
+    xp6 = 1200,
+    xp7 = 1600,
+    xp8 = 2000,
+    xp9 = 2500,
+    xp10 = 3000,
+}

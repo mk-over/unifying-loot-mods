@@ -1,1 +1,0 @@
-Events.OnPlayerDeath.Add(UnsearchedDeath_Event)
